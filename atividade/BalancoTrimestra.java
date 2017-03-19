@@ -21,7 +21,7 @@ public class BalancoTrimestra {
         int gastosMarco = 17000;
         int gastosTrimestre = gastosJaneiro + gastosFevereiro + gastosMarco;
         
-        System.out.println(gastosTrimestre);
+        
     }
     
 }
